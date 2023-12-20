@@ -1,0 +1,54 @@
+h1{
+    margin-bottom: 0;
+}
+
+body{
+    text-align: center;
+    font-size: 18px;
+    margin: 20px;
+    padding: 20px;
+}
+
+#image{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+div.img-div{
+    display: block;
+}
+
+
+section{
+    display: block;
+}
+
+figure.tribute-info{
+    text-align: center;
+    
+}
+ul{
+
+    display: inline-block;
+    text-align: center;
+    padding: 0;
+    margin: 20px;
+    line-height: 1.9;
+    list-style-position: inside;
+    
+}
+
+
+main{
+    text-align: center;
+}
+
+li{
+    text-align: left;
+    display: list-item;
+    margin: 10px auto;
+    max-width: 700px;
+}
+
